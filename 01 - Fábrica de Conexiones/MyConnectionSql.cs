@@ -14,6 +14,7 @@ namespace _01___Fábrica_de_Conexiones
             // con el servidor SQL Server
             SqlConnection connectionString = new SqlConnection(@"server = (local)\sqlexpress;");
 
+
         }
     }
 }
