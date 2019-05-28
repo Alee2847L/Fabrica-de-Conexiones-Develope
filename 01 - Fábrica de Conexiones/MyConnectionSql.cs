@@ -13,6 +13,7 @@ namespace _01___Fábrica_de_Conexiones
             // Utilizando un ConnectionString para realizar la conexión
             // con el servidor SQL Server
             SqlConnection connectionString = new SqlConnection(@"server = (local)\sqlexpress;");
+
         }
     }
 }
